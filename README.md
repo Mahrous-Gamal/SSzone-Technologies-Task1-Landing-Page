@@ -6,8 +6,7 @@
 
 ## [Website Demo](https://s-szone-technologies-task1-landing-page.vercel.app/)
 
-![image](https://github.com/Mahrous-Gamal/India-Restaurant/assets/105131896/2512121c-692a-4893-89ff-49b89f2bfa23)
-
+![image](![image](https://github.com/Mahrous-Gamal/SSzone-Technologies-Task1-Landing-Page/assets/105131896/f7e8eacf-076d-4b0f-ad2a-911ced7ddd74))
 
 ### Prerequisites
 
