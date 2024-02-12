@@ -6,7 +6,7 @@
 
 ## [Website Demo](https://s-szone-technologies-task1-landing-page.vercel.app/)
 
-![image](![image](https://github.com/Mahrous-Gamal/SSzone-Technologies-Task1-Landing-Page/assets/105131896/f7e8eacf-076d-4b0f-ad2a-911ced7ddd74))
+![image](https://github.com/Mahrous-Gamal/SSzone-Technologies-Task1-Landing-Page/assets/105131896/68564af3-f881-4a23-ac1f-59d261104b21)
 
 ### Prerequisites
 
