@@ -162,7 +162,7 @@
     background-position: center;
     animation: biani 4.5s linear infinite alternate;
     box-shadow: 0 0px 20px rgba(36, 39, 37, 0.3);
-    background-image: url(../images/main-b.jpg);
+    background-image: url(../Images/main-b.jpg);
   }
 
   @keyframes biani {
